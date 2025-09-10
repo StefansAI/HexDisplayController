@@ -1,3 +1,18 @@
+// ================================================
+//
+// SPDX-FileCopyrightText: 2025 Stefan Warnke
+//
+// SPDX-License-Identifier: BeerWare
+//
+//=================================================
+//
+// File:  HexDisplayController
+// 
+// Periodically read in the 8-bit input data and
+// display the bits and the 2 digit hex code.
+//
+//=================================================
+
 // Input data pin definition array
 const int DIN[8] = { 0, 1, 2, 3, 4, 5, 6, 7 }; 
 // Output data pin definition array
