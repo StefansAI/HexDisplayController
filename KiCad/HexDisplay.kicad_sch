@@ -6090,12 +6090,13 @@
 				(hide yes)
 			)
 		)
-		(property "OrderInfo" ""
+		(property "OrderInfo" "https://www.digikey.com/en/products/detail/harwin-inc/M20-9771146/3920928"
 			(at 36.83 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "9"

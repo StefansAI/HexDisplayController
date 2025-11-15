@@ -23,3 +23,5 @@ The schematic and layout are design in KiCad 9 and the design files are included
   <img src="docs/assets/images/layout.png" />
 </div>
 <br>
+<br><br>
+The PCB had been made at <a href="www.PCBway.com">PCBway.</a>
